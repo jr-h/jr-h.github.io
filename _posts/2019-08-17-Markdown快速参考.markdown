@@ -1,7 +1,6 @@
 ```text
----
-layout: post
---- 
+title: Markdown快速参考
+layout: post 
 ```
 
 # Markdown快速参考
