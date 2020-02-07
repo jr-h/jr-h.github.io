@@ -52,12 +52,12 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-comments:
+#comments:
   #GitTalk
-  gitalk: true
-  gitalk_clientID: '1a6bc0fddb5d8dc6729e'
-  gitalk_Secret: '1484ca5ead88b00c1f109f5228588be08927ff24'
-  gitalk_repo: 'jr-h.github.io'
-  gitalk_owner: 'jr-h'
-  gitalk_admin: 'jr-h'
-  distractionFreeMode: true
+  #gitalk: true
+  #gitalk_clientID: '1a6bc0fddb5d8dc6729e'
+  #gitalk_Secret: '1484ca5ead88b00c1f109f5228588be08927ff24'
+  #gitalk_repo: 'jr-h.github.io'
+  #gitalk_owner: 'jr-h'
+  #gitalk_admin: 'jr-h'
+  #distractionFreeMode: true
