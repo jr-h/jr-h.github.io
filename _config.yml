@@ -10,14 +10,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Soot Spirits
+title : Jr-h 's Blog
 tagline: Code, Science, Philosophy, Humor
 author :
-  name : Abhishek Nagekar
-  email : abhishek@nagekar.com
-  github : abhn
-  twitter : abhisheknagekar
-  feedburner : AbhishekN
+  name : Jr.h
+  email : 1424636645@qq.com
+  github : jr-h
+  #twitter : abhisheknagekar
+  #feedburner : AbhishekN
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -27,7 +27,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://www.nagekar.com
+production_url : https://jr-h.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -109,3 +109,12 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+comments:
+  #GitTalk
+  gitalk: true
+  gitalk_clientID: '1a6bc0fddb5d8dc6729e'
+  gitalk_Secret: '1484ca5ead88b00c1f109f5228588be08927ff24'
+  gitalk_repo: 'jr-h.github.io'
+  gitalk_owner: 'jr-h'
+  gitalk_admin: 'jr-h'
+  distractionFreeMode: true
